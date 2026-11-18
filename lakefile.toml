@@ -1,0 +1,6 @@
+name = "SevenZipF"
+version = "0.1.0"
+defaultTargets = ["SevenZipF"]
+
+[[lean_lib]]
+name = "SevenZipF"
